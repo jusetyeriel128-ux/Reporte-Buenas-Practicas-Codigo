@@ -103,8 +103,7 @@ public static int realizar_division_entera(int dividendo, int divisor) throws Ar
 """
 Módulo: gestion_usuarios.py
 Propósito: Administrar el registro y consulta de usuarios en un sistema.
-Versión: 1.0
-Autor: Jimenez Lagunes Huset Yeriel
+Autor: Jimenez Lagunas Juset Yeriel
 """
 
 class Usuario:
@@ -159,3 +158,4 @@ class Usuario:
  
  
  
+
